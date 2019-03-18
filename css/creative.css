@@ -12,7 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #CC99FF;
+  border-color: #16161D;
   border-width: 3px;
   max-width: 50px;
 }
@@ -23,11 +23,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #CC99FF;
+  color: #16161D;
 }
 a:hover,
 a:focus {
-  color: #CC99FF;
+  color: #16161D;
 }
 h1,
 h2,
@@ -43,10 +43,10 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #CC99FF;
+  background-color: #16161D;
 }
 .bg-dark {
-  background-color: #CC99FF;
+  background-color: #16161D;
   color: white;
 }
 .text-faded {
@@ -62,7 +62,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: black;
+  background-color: eigengrau;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
@@ -94,11 +94,11 @@ aside {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #CC99FF;
+  color: #16161D;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #CC99FF !important;
+  color: #16161D !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -130,7 +130,7 @@ aside {
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #CC99FF;
+    color: #16161D;
     font-size: 14px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -143,7 +143,7 @@ aside {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #CC99FF;
+    color: #16161D;
   }
 }
 header {
@@ -234,7 +234,7 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: #CC99FF;
+  background: #16161D;
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -282,7 +282,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #CC99FF;
+  color: #16161D;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -339,7 +339,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
   color: white;
   background-color: ;
-  border-color: #CC99FF;
+  border-color: #16161D;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -351,8 +351,8 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #CC99FF;
-  border-color: #CC99FF;
+  background-color: #16161D;
+  border-color: #16161D
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -377,11 +377,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #CC99FF;
-  border-color: #CC99FF;
+  background-color: #16161D
+  border-color: #16161D;
 }
 .btn-primary .badge {
-  color: #CC99FF;
+  color: #16161D;
   background-color: white;
 }
 .btn {
